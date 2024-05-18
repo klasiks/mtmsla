@@ -1,0 +1,50 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "7553dbd73be3cd354324cd4a20bd6931",
+                "name": "Mehtumsula1",
+                "artist": "",
+                "album": "",
+                "url": "static/Mehtumsula/Mehtumsula1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "7553dbd73be3cd354324cd4a20bd6931",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "602126798cdbf6eebe6366f4936a38a7",
+                "name": "Mehtumsula2",
+                "artist": "",
+                "album": "",
+                "url": "static/Mehtumsula/Mehtumsula2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "602126798cdbf6eebe6366f4936a38a7",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "6cd01f26268ba228c29810fcb1deb0c2",
+                "name": "Mehtumsula3",
+                "artist": "",
+                "album": "",
+                "url": "static/Mehtumsula/Mehtumsula3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "6cd01f26268ba228c29810fcb1deb0c2",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
